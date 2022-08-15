@@ -1,4 +1,4 @@
-# libft
+# Libft
 42seoul - subject
 # **Libft**
 
